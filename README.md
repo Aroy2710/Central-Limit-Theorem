@@ -3,7 +3,7 @@ Program that highlights how the Central Limit Theorem works using a 6 sided die
 
 # How the Project Works 
 
-* The main file is the CentralLimitTheoremVFinal
+* The main file is the CentralLimitTheoremVFinal which must be run in MATLAB.
 * In order to use it properly you must have all the function and audio files in the same folder
 * To see the central limit theorem in action I recommend varying the sample size in increasing order, i.e sample size : 10, then 100, then 1000, 10000 and so on , the histogram will become more and more normal with a larger sample size
 * Keep the number of samples constant to a high value such as 10000
