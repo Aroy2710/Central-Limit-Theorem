@@ -1,7 +1,5 @@
 # Central-Limit-Theorem-
 Program that highlights how the Central Limit Theorem works using a 6 sided die
-# Central-Limit-Theorem-
-Program that highlights how the Central Limit Theorem works using a 6 sided die
 
 # How the Project Works 
 The main file is the CentralLimitTheoremVFinal
