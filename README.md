@@ -1,5 +1,5 @@
 # Central-Limit-Theorem
-To give some background on what this project does , the Central Limit Theorem is a fundamental theorem in statistics that states that the distribution of the sample mean (average) of any thing we are measuring can be approximated by a Normal Distribution curve independant of the original populations distribution.
+To give some background on what this project does , the Central Limit Theorem is a fundamental theorem in statistics that states that the distribution of the sample mean (average) of any thing we are measuring can be approximated by a Normal Distribution curve independant of the original populations distribution for a sufficiently large sample size 
 
 For example suppose you are trying to find the average height of all the students in your school, its impractical and time consuming to ask every single student for their height so you take a sample of students such as 20 students and compute the height of that sample to make conclusions about the true average height, this sample mean will clearly vary as you keep taking samples of the same size. The CLT states that as you keep increasing the number of students in your sample , the distribution of all these sample means can be approximated by a normal curve with a sufficiently large sample, typically 30 or more.
 
